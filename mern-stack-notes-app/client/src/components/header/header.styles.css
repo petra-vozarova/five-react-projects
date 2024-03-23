@@ -1,0 +1,20 @@
+.header-container {
+  display: flex;
+  padding: 30px;
+}
+.header-container h3 {
+  flex: 1;
+  font-size: 40px;
+  margin: 0;
+}
+
+.header-container ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+.header-container li {
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}

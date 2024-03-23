@@ -1,0 +1,13 @@
+.home-container {
+  padding: 30px;
+}
+
+.blogs-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.blog-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+}

@@ -1,0 +1,10 @@
+.add-blog-container {
+  padding: 30px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 400px;
+}

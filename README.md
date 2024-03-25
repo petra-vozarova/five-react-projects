@@ -42,3 +42,16 @@ The react_weather_app is a simple, single-page application built using **React**
 This application serves as a weather information provider. It allows users to search for a city and displays the current weather information for that location. The information typically includes temperature, humidity, wind speed, and a brief description of the weather conditions.
 
 The application fetches weather data from an external API, processes the data, and presents it in a user-friendly format. The user interface is built with React, which provides a dynamic and interactive experience.
+
+## More projects from outside of this repository
+
+### ToDo App
+[see the code](https://github.com/petra-vozarova/todo-app)
+
+The todo_app is a simple application built with Create React App.
+
+It allows users to manage a list of tasks. Users can add new tasks to the list, mark tasks as completed, edit tasks and delete tasks.
+
+The application's state is managed with **Redux Toolkit**, and changes to the state are persisted in local storage using **redux-persist**.
+
+The application's UI is built with **React, MUI and styled with a CSS-in-JS library**.
